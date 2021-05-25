@@ -60,7 +60,7 @@ To import the data from the **canadacities.csv** file to
     DELIMITER ',' CSV HEADER;
 
 
-#Database
+# Database
 
     DATABASES = {
      'default': {
@@ -73,7 +73,7 @@ To import the data from the **canadacities.csv** file to
      }
  }
 
-#AWS Public DNS
+# AWS Public DNS
 
     ec2-18-221-166-31.us-east-2.compute.amazonaws.com
 
